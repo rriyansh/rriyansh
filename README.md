@@ -1,8 +1,6 @@
 <div align="center">
-<img width="640" height="360" alt="github" src="https://github.com/user-attachments/assets/9a63f95e-0e1b-48ad-b93e-5995eaaffebc" />
-
-  <h1>Reyansh Dixit</h1>
-  <p>Full-Stack Developer & AI Systems Engineer</p>
+  <h1 style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700;">Reyansh Dixit</h1>
+  <p style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; color: #57606a;">Full-Stack Developer & AI Systems Engineer</p>
 
   <p>
     <a href="https://imreyansh.online/"><img src="https://img.shields.io/badge/-imreyansh.online-0077B5?style=flat-square&logo=firefox&logoColor=white" alt="Website" /></a>
@@ -14,15 +12,19 @@
 
 ---
 
-## About Me
+<h2 style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600;">About Me</h2>
+
+<div style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
 
 I am a Computer Science student focused on developing production-grade web applications, training deep learning models, and building end-to-end software solutions.
 
 My work centers on practical software engineering—designing resilient full-stack architectures, optimizing backend performance, and implementing computer vision pipelines. I actively contribute to open-source initiatives and collaborate on technical engineering projects.
 
+</div>
+
 ---
 
-## Technical Stack
+<h2 style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600;">Technical Stack</h2>
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -31,6 +33,14 @@ My work centers on practical software engineering—designing resilient full-sta
 | **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | **Cloud & Deployment** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white) |
 | **Tools & Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+---
+
+<h2 style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600;">Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rriyansh/rriyansh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+</p>
 
 ---
 
