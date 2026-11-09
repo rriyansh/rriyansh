@@ -1,5 +1,5 @@
 <div align="center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=1088393434980766158" height="266" width="236" frameborder="0" scrolling="no"></iframe>
+<img width="640" height="360" alt="github" src="https://github.com/user-attachments/assets/9a63f95e-0e1b-48ad-b93e-5995eaaffebc" />
 
   <h1>Reyansh Dixit</h1>
   <p>Full-Stack Developer & AI Systems Engineer</p>
