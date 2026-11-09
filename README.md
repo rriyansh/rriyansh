@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Coding Banner GIF" />
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=1088393434980766158" height="266" width="236" frameborder="0" scrolling="no"></iframe>
 
-  <h1 style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700;">Reyansh Dixit</h1>
-  <p style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; color: #57606a;">Full-Stack Developer & AI Systems Engineer</p>
+  <h1>Reyansh Dixit</h1>
+  <p>Full-Stack Developer & AI Systems Engineer</p>
 
   <p>
     <a href="https://imreyansh.online/"><img src="https://img.shields.io/badge/-imreyansh.online-0077B5?style=flat-square&logo=firefox&logoColor=white" alt="Website" /></a>
@@ -14,19 +14,15 @@
 
 ---
 
-<h2 style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600;">About Me</h2>
-
-<div style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
+## About Me
 
 I am a Computer Science student focused on developing production-grade web applications, training deep learning models, and building end-to-end software solutions.
 
 My work centers on practical software engineering—designing resilient full-stack architectures, optimizing backend performance, and implementing computer vision pipelines. I actively contribute to open-source initiatives and collaborate on technical engineering projects.
 
-</div>
-
 ---
 
-<h2 style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600;">Technical Stack</h2>
+## Technical Stack
 
 | Category | Technologies & Tools |
 | :--- | :--- |
