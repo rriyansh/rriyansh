@@ -1,6 +1,8 @@
+<div style="background-color: #0d1117; color: #c9d1d9; padding: 24px; border-radius: 12px;">
+
 <div align="center">
-  <h1 style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700;">Reyansh Dixit</h1>
-  <p style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; color: #57606a;">Full-Stack Developer & AI Systems Engineer</p>
+  <h1 style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; color: #ffffff;">Reyansh Dixit</h1>
+  <p style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; color: #8b949e;">Full-Stack Developer & AI Systems Engineer</p>
 
   <p>
     <a href="https://imreyansh.online/"><img src="https://img.shields.io/badge/-imreyansh.online-0077B5?style=flat-square&logo=firefox&logoColor=white" alt="Website" /></a>
@@ -12,9 +14,9 @@
 
 ---
 
-<h2 style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600;">About Me</h2>
+<h2 style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; color: #58a6ff;">About Me</h2>
 
-<div style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;">
+<div style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #c9d1d9;">
 
 I am a Computer Science student focused on developing production-grade web applications, training deep learning models, and building end-to-end software solutions.
 
@@ -24,7 +26,7 @@ My work centers on practical software engineering—designing resilient full-sta
 
 ---
 
-<h2 style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600;">Technical Stack</h2>
+<h2 style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; color: #58a6ff;">Technical Stack</h2>
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -35,3 +37,17 @@ My work centers on practical software engineering—designing resilient full-sta
 | **Tools & Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 ---
+
+<h2 style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; color: #58a6ff;">Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rriyansh/rriyansh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rriyansh&color=0077B5&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+</div>
