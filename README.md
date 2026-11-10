@@ -5,7 +5,7 @@
   <p style="font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; color: #8b949e;">Full-Stack Developer & AI Systems Engineer</p>
 
   <p>
-    <a href="https://imreyansh.online/"><img src="https://img.shields.io/badge/-imreyansh.online-0077B5?style=flat-square&logo=firefox&logoColor=white" alt="Website" /></a>
+    <a href="https://iamreyansh.online/"><img src="https://img.shields.io/badge/-iamreyansh.online-0077B5?style=flat-square&logo=firefox&logoColor=white" alt="Website" /></a>
     <a href="https://linkedin.com/in/rriyansh"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:riyanshs@proton.me"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://reddit.com/user/pyy7"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
