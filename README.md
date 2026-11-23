@@ -45,15 +45,14 @@ Computer Science student specializing in production-grade web applications, deep
 ### Contributions
 
 <div align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub handle in all 4 links below -->
   <a href="https://github.com/rriyansh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rriyansh&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
   </a>
 
   <br />
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" alt="GitHub Statistics" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rriyansh&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true" alt="GitHub Statistics" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rriyansh&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true" alt="Top Languages" height="165" />
   </p>
 </div>
